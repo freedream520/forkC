@@ -1,5 +1,9 @@
 ## 用go实现《c语言经典算法》中的100个例子
+***
+原本想将100个例子全部用go实现，后来发现不太现实，一是太多，二是有些例子太过无聊，我也就懒得去写。只写一些自己认为值得写的吧。（反正是给自己看的，而且以后也不见得会看）
+***
 ### 目 录
+***
 * 1.[有一对兔子,从出生后第 3 个月起每个月都生一对兔子,小兔子长到第三个月后每个月又生一对兔子,假如兔子都不死,问每个月的兔子总数为多少?](https://github.com/qzs1008/forkC/blob/master/1.go)
 * 2.[判断 101-200 之间有多少个素数,并输出所有素数。](https://github.com/qzs1008/forkC/blob/master/2.go)
 * 3.[打印出所有的“水仙花数”](https://github.com/qzs1008/forkC/blob/master/3.go)
@@ -13,3 +17,7 @@
 * 11.[一只猴子摘了 N 个桃子第一天吃了一半又多吃了一个,第二天又吃了余下的一半又多吃了一个,到第十天的时候发现还有一个.](https://github.com/qzs1008/forkC/blob/master/11.go)
 * 12.[打印出如下图案(菱形)](https://github.com/qzs1008/forkC/blob/master/12.go)
 * 13.[一个 5 位数,判断它是不是回文数。即 12321 是回文数,个位与万位相同,十位与千位相同。](https://github.com/qzs1008/forkC/blob/master/13.go)
+* 14.[求 100 之内的素数](https://github.com/qzs1008/forkC/blob/master/14.go)
+* 15.[对 10 个数进行排序](https://github.com/qzs1008/forkC/blob/master/15.go)
+* 16.[有一个已经排好序的数组。现输入一个数,要求按原来的规律将它插入数组中。](https://github.com/qzs1008/forkC/blob/master/16.go)
+* 17.[将一个数组逆序输出。](https://github.com/qzs1008/forkC/blob/master/17.go)
